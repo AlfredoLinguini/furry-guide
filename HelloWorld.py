@@ -8,4 +8,4 @@ print("I'm probably dead...") ; sleep(2)
 print("💀💀💀") ; sleep(2)
 
 fetish = input("What is your fetish?")
-if 
+if fet
